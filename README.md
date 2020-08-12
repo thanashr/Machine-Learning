@@ -1,4 +1,4 @@
-Machine Learning - CSE574
+Machine Learning - CSE574 - 
 Repository for the part of the Machine Learning course at the University at Buffalo under Dr. Sargur Srihari.
 
 Python3, SciKit-learn, Pandas, NumPy, SciPy, Keras+TensorFlow, matplotlib and OpenAI gym environment were used.
